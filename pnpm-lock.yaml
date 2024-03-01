@@ -540,8 +540,8 @@ importers:
         specifier: 4.0.3
         version: 4.0.3
       '@types/lodash.escaperegexp':
-        specifier: 4.1.6
-        version: 4.1.6
+        specifier: 4.1.9
+        version: 4.1.9
       '@types/lodash.isequal':
         specifier: 4.5.5
         version: 4.5.5
@@ -3122,8 +3122,8 @@ packages:
     resolution: {integrity: sha512-pTjcqY9E4nOI55Wgpz7eiI8+LzdYnw3qxXCfHyBDdPbYvbyLgWLJGh8EdPvqawwMK1Uo1794AUkkR38Fr0g+2g==}
     dev: true
 
-  /@types/lodash.escaperegexp@4.1.6:
-    resolution: {integrity: sha512-uENiqxLlqh6RzeE1cC6Z2gHqakToN9vKlTVCFkSVjAfeMeh2fY0916tHwJHeeKs28qB/hGYvKuampGYH5QDVCw==}
+  /@types/lodash.escaperegexp@4.1.9:
+    resolution: {integrity: sha512-CMQc8v16YzhnPZnMhYQuJUksI8BmL1jy/lHJkiXi4/t24Lx7Qvy7qxew1abrDJGa1T2i0NzLLaR27NK1/qp5Ow==}
     dependencies:
       '@types/lodash': 4.14.197
     dev: true
