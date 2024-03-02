@@ -320,8 +320,8 @@ importers:
         version: 3.4.0
     devDependencies:
       '@types/cross-spawn':
-        specifier: 6.0.2
-        version: 6.0.2
+        specifier: 6.0.6
+        version: 6.0.6
       '@types/fs-extra':
         specifier: ^9.0.11
         version: 9.0.13
@@ -3048,10 +3048,10 @@ packages:
     dependencies:
       '@babel/types': 7.23.9
 
-  /@types/cross-spawn@6.0.2:
-    resolution: {integrity: sha512-KuwNhp3eza+Rhu8IFI5HUXRP0LIhqH5cAjubUvGXXthh4YYBuP2ntwEX+Cz8GJoZUHlKo247wPWOfA9LYEq4cw==}
+  /@types/cross-spawn@6.0.6:
+    resolution: {integrity: sha512-fXRhhUkG4H3TQk5dBhQ7m/JDdSNHKwR2BBia62lhwEIq9xGiQKLxd6LymNhn47SjXhsUEPmxi+PKw2OkW4LLjA==}
     dependencies:
-      '@types/node': 16.11.43
+      '@types/node': 16.18.55
     dev: true
 
   /@types/debug@4.1.7:
